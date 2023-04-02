@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Flames</string>
+
+    <string name="background_image">Background Image</string>
+    <string name="enter_your_name">Your name</string>
+    <string name="enter_your_partner_s_name">Your partner\'s name</string>
+    <string name="calculate">Calculate</string>
+    <string name="try_again">Try Again</string>
+    <string name="info_button">Info Button</string>
+
+    <string name="rules">
+        This fun little app will tell you the relationship between you and your partner/crush.\n\n
+        It is based on the flames game logic, where FLAMES stands for:\n
+            ■ Friendship\n
+            ■ Love\n
+            ■ Affection\n
+            ■ Marriage\n
+            ■ Enemy\n
+            ■ Siblings.\n\n
+
+        Just enter your name and the person you want to check your relationship with then click on the calculate button to get to the results!\n\n\n
+        PS. This is just for fun and not to be taken seriously.
+    </string>
+
+    <string name="author">©Mouli Dutta</string>
+
+</resources>
